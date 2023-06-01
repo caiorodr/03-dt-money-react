@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-05-22T10:01:00.173Z"
+    },
+    {
+      "description": "Igor",
+      "price": 1,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-05-31T13:25:29.431Z",
+      "id": 3
     }
   ]
 }
